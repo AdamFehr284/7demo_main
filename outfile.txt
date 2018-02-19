@@ -1,0 +1,15 @@
+name1 ,14,   small
+name2 ,14,small
+name3 ,16,small
+name4 ,16,small
+name5 ,16,  small
+name6 ,16,medium
+name7 ,16,   medium
+name8 ,16,medium
+name9 ,17,medium
+name10,16,medium
+name11,18,large
+name12,18,large
+name13,19,large
+name14,19,large
+name15,19,large
